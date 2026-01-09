@@ -1,0 +1,12 @@
+# データファイルは除外
+*.csv
+stock_list.csv
+
+# Pythonのキャッシュ
+__pycache__/
+*.pyc
+
+# 仮想環境や設定
+.env
+.venv
+.DS_Store
